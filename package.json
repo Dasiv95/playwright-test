@@ -1,0 +1,13 @@
+{
+    "name": "test-playwright",
+    "scripts": {
+        "start": "playwright test --headed"
+    },
+    "dependencies": {
+        "playwright": "1.15.0",
+        "@playwright/test": "1.15.0"
+    },
+    "devDependencies": {
+        "nodemon": "2.0.13"
+    }
+}
